@@ -37,7 +37,7 @@ Content-Type: application/json
 ###
 
 # поиск продуктов по названию и описанию
-GET {{baseUrl}}/products/?search=кабачок
+GET {{baseUrl}}/products/?search=лучш
 Content-Type: application/json
 
 ###
